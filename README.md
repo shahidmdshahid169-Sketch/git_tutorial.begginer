@@ -7,6 +7,6 @@ sleep
 code 
 repeat
 
-T
-hank you 
+
+Thank you 
 
